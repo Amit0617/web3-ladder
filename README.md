@@ -15,11 +15,13 @@ Reward your customers and users with tokens that can be redeemed for discounts, 
 
 ### DAOs:
 Create and join decentralized autonomous organizations that can govern your projects, funds or communities.
+<hr></hr>
 
-Web3 Ladder enables you to climb the Web3 rail without an in-house team or technical knowledge of Web3. It provides you with:
+**Web3 Ladder** enables you to climb the Web3 rail without an in-house team or technical knowledge of Web3. 
+It provides you with:
 
-**Simple to embed widgets:** Add Web3 features to your website or app with just a few lines of code.  
+- **Simple to embed widgets:** Add Web3 features to your website or app with just a few lines of code.  
 
-**Easy to use UI:** Manage your Web3 features and integrations with a user-friendly and intuitive interface.  
+- **Easy to use UI:** Manage your Web3 features and integrations with a user-friendly and intuitive interface.  
 
-**Modular APIs:** Access Web3 features programmatically with flexible and customizable APIs.  
+- **Modular APIs:** Access Web3 features programmatically with flexible and customizable APIs.  
