@@ -1,34 +1,15 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# Web3 Ladder
 
-## Getting Started
+Web3 Ladder is a bridge between Web2 and Web3 for brands and businesses. It allows them to create, manage and integrate Web3 features such as:
 
-First, run the development server:
+NFT minting: Create and sell unique digital assets on various marketplaces and platforms.
+Token-gating: Restrict access to your content, services or communities based on the ownership or holding of specific tokens.
+Loyalty programs: Reward your customers and users with tokens that can be redeemed for discounts, perks or exclusive offers.
+DAOs: Create and join decentralized autonomous organizations that can govern your projects, funds or communities.
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-```
+Web3 Ladder enables you to climb the Web3 rail without an in-house team or technical knowledge of Web3. It provides you with:
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+Simple to embed widgets: Add Web3 features to your website or app with just a few lines of code.
+Easy to use UI: Manage your Web3 features and integrations with a user-friendly and intuitive interface.
+Modular APIs: Access Web3 features programmatically with flexible and customizable APIs.
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
-
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
-
-## Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
