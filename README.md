@@ -1,5 +1,7 @@
 # Web3 Ladder
 
+> !Disclaimer: Most of the features have to be implemented. Currently their technical roadmaps are figured out only
+
 Web3 Ladder is a bridge between Web2 and Web3 for brands and businesses. It allows them to create, manage and integrate Web3 features such as:
 
 **NFT minting:** Create and sell unique digital assets on various marketplaces and platforms.
