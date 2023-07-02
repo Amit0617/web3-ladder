@@ -4,11 +4,11 @@
 
 Web3 Ladder is a bridge between Web2 and Web3 for brands and businesses. It allows them to create, manage and integrate Web3 features such as:
 
-### NFT minting: 
-Create and sell unique digital assets on various marketplaces and platforms.
+### Mass NFT minting: 
+Collect wallet address from your users and send them all to us for minting an NFT for them. So those can be used for your desired applications like token gating or some fan program.
 
 ### Token-gating: 
-Restrict access to your content, services or communities based on the ownership or holding of specific tokens.  
+Restrict access to your content, services or communities based on the ownership or holding of specific tokens. We provide a simple embeddable widget which can allow users to prove whether they have the pass or not.  
 
 ### Loyalty programs: 
 Reward your customers and users with tokens that can be redeemed for discounts, perks or exclusive offers.  
